@@ -16,7 +16,7 @@ NAME OF LABS
 
 ----------------------------------------------------------------------------------------------------------------------------
 
-(1) WAP TO RECOGNIZE STRING WITH NUMBERS OR ALPHABETS                               06/08/2021
+(1) WAP TO RECOGNIZE STRING WITH NUMBERS OR ALPHABETS 06/08/2021
 
 (2) WAP TO RECOGNIZE A DIGIT OR NON DIGIT 13/08/2021
 
