@@ -5,6 +5,6 @@ COMPILER DESIGN LAB RECORD CS 324
 
 
 NAME - MANISH KUMAR PASWAN
-                                                                                                                                                                              BRANCH - CSE
+BRANCH - CSE
 ROLL NUMBER - 60
 REGISTRATION NUMBER - 2019UGCS060R
